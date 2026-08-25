@@ -22,11 +22,11 @@ The analysis is designed to support practical decisions around **Q4 stock alloca
 | Average Order Value | **$131.82** |
 | Strongest Month | **September — $105,741** |
 | September Revenue Growth vs August | **29.8%** |
-| Top Category | **Fashion — $56,670** |
-| Top State | **California — $58,462** |
-| Strongest Weekday | **Saturday — $44,227** |
-| Dominant Age Group | **26–40 — 38.4% of orders** |
-| Peak Time of Day | **Evening — 37.45% of orders** |
+| Top Category | **Fashion  $56,670** |
+| Top State | **California  $58,462** |
+| Strongest Weekday | **Saturday  $44,227** |
+| Dominant Age Group | **26–40 38.4% of orders** |
+| Peak Time of Day | **Evening  37.45% of orders** |
 
 > **Executive finding:** Fashion, Home & Furniture, and Electronics generated roughly **63% of Q3 revenue**, while September revenue accelerated by almost **30% month over month**. Demand was strongest among customers aged 26–40, during evening periods, and on Saturdays.
 
@@ -62,7 +62,7 @@ Ahead of Q4 holiday planning, commercial leadership needed an evidence-led view 
 The analysis addresses the following questions:
 
 1. What were total Q3 revenue, orders, and items sold?
-2. Which month performed strongest and how did performance shift month over month?
+2. Which month performed strongest, and how did performance shift month over month?
 3. Which weekdays generated the strongest and weakest sales?
 4. Which product categories drove the most revenue?
 5. Which US states led performance and which were comparatively underserved?
@@ -189,7 +189,7 @@ Maintain a reliable card-payment experience while continuing to support Digital 
 - Column charts
 - Lollipop-style category chart
 - Progress-bar visualisation
-- Donut chart
+- Doughnut chart
 - Dashboard navigation
 - Light and dark dashboard design
 - Commercial data storytelling
