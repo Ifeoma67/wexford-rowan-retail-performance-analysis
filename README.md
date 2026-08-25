@@ -20,7 +20,7 @@ The analysis is designed to support practical decisions around **Q4 stock alloca
 | Total Orders | **2,000** |
 | Items Sold | **4,179** |
 | Average Order Value | **$131.82** |
-| Strongest Month | **September — $105,741** |
+| Strongest Month | **September  $105,741** |
 | September Revenue Growth vs August | **29.8%** |
 | Top Category | **Fashion  $56,670** |
 | Top State | **California  $58,462** |
